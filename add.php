@@ -7,7 +7,7 @@
     $dateNaissance = $_POST['dateNaissance'];
     $dateEmbauche = $_POST['dateEmbauche'];
     $salaire = $_POST['salaire'];
-    $service = $_POST['service'];
+    $service = $_POST['service']asdlfm:
     
     addUser($nom,$prenom,$dateNaissance,$dateEmbauche,$salaire,$service);
     echo"Ok";
